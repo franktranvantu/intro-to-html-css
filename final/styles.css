@@ -71,10 +71,10 @@ header .profile-image {
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(2) rotate(360deg); /*updated*/
 }
 .tag {
-  background-color: blue; /*updated*/
+  background-color: #efefef;
   color: black;
   padding: 10px;
   border-radius: 5px;
